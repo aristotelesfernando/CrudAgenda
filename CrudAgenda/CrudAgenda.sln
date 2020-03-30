@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudAgenda", "CrudAgenda.csproj", "{67D63FC4-6FAB-4239-A1FE-B199DD2210EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D63FC4-6FAB-4239-A1FE-B199DD2210EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D63FC4-6FAB-4239-A1FE-B199DD2210EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D63FC4-6FAB-4239-A1FE-B199DD2210EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D63FC4-6FAB-4239-A1FE-B199DD2210EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7C98D5C-C4CB-403C-A07B-8E8B67402E84}
+	EndGlobalSection
+EndGlobal
